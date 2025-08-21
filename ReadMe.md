@@ -6,17 +6,17 @@
   [gmail]: mailto:superdev0777@gmail.com 
   [telegram]: https://t.me/crypto0789
      
-  Hi, I'm a Senior Developer, with outstanding experience in various fields, such as web and mobile, cryptocurrency.
+  Hi, I’m a senior software developer with extensive experience across web, mobile, and cryptocurrency domains.
 
-My major skills are blockchain-based web and mobile application development. I have good experience with Blockchain, Fantasm, Bitcoin, Ethereum, Tron, Yield Farming, Swap, Smart Contract, NFT marketplace, and Exchange site.
+My core expertise is full-stack blockchain development for web and mobile apps. I work with Crypto trading bot, Blockchain dapps on All EVM, Solana, Tron, Ton, Sui Networks.
 
-I have developed sites using PHP, Laravel, WordPress, Codeigniter, and Python/Django/Flask and much more.
+I’ve built projects using PHP, Laravel, WordPress, CodeIgniter, and Python (Django/Flask), among other technologies.
 
-Especially I have rich experience with the latest Javascript frameworks such as React, Angular and Vue.
+I’m proficient with modern JavaScript frameworks, including React js, Next js, Angular, and Vue.
 
-I had already built so many Websites with the mentioned skill.     
-   
-And I have rich experience with YieldFarming and Dex platforms like Pancakeswap Finance, Olympus Dao, SushiSwap, Uniswap, Tomb Finance, Titano, Baked Beans, Fantasm, Horde.
+I’ve shipped numerous sites and platforms with the skills above, including yield farming and DEX integrations.
+
+I also have deep experience with DeFi protocols and platforms such as Pump fun, Presale, Staking, Uniswap, Launchpad(Pinksale), Titano, Baked Beans, Fantasm, and Horde.
 
 <div>
   <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320"/>
