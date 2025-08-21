@@ -43,16 +43,14 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
 | <a href="https://github.com/kryptodev0777?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kryptodev0777&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Super's github stats" /> </a>| <a href="https://github.com/kryptodev0777?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kryptodev0777&layout=compact&theme=buefy&hide_border=true" /> </a> |
 | ------------- | ------------- |
 
-<!--   GitHub stats graph -->
- ![kryptodev0777's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kryptodev0777&hide_border=true&theme=github-light) 
 
 ### My Portfolio:
 
 <table>
     <thead align="center">
         <tr>
-            <td>GoldMint Finance</td>
-            <td>Lovepot finance</td>           
+            <td>Pattie Pump fun</td>
+            <td>Pattie Launchpad</td>           
             <td>OlympusFork</td>
             <td>Titano finance</td>
         </tr>
@@ -60,12 +58,12 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
     <tr>
         <td>
             <a href="https://goldmint.finance/" target="_blank">
-                <img src="https://raw.githubusercontent.com/kryptodev0777/kryptodev0777/main/Portfolio/tomb-2.png" width="200">
+                <img src="https://raw.githubusercontent.com/kryptodev0777/kryptodev0777/main/Portfolio/pattiepump.png" width="200">
             </a>
         </td>
         <td>
             <a href="https://lovepot.finance/" target="_blank">
-                <img src="https://raw.githubusercontent.com/kryptodev0777/kryptodev0777/main/Portfolio/pancake.png" width="200">
+                <img src="https://raw.githubusercontent.com/kryptodev0777/kryptodev0777/main/Portfolio/launchpad.png" width="200">
             </a>
         </td> 
         <td>
