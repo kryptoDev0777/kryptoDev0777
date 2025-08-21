@@ -58,7 +58,7 @@ And I have rich experience with YieldFarming and Dex platforms like Pancakeswap 
     <tr>
         <td>
             <a href="https://goldmint.finance/" target="_blank">
-                <img src="https://raw.githubusercontent.com/kryptodev0777/kryptodev0777/main/Portfolio/pattiepump.png" width="200">
+                <img src="https://raw.githubusercontent.com/kryptodev0777/kryptodev0777/main/Portfolio/pattiePump.png" width="200">
             </a>
         </td>
         <td>
