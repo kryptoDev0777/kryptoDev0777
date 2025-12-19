@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=richard382&label=Profile%20views&color=0e75b6&style=flat" alt="kryptodev0777" />  
 
   [gmail]: mailto:superdev0777@gmail.com 
-  [telegram]: https://t.me/crypto0789
+  [telegram]: https://t.me/dev_guru888
      
   Hi, I’m a senior software developer with extensive experience across web, mobile, and cryptocurrency domains.
 
@@ -24,7 +24,7 @@ I also have deep experience with DeFi protocols and platforms such as Pump fun, 
   
 ### Connect with me:
 
- 💬 Telegram : [@crypto0789](https://t.me/crypto0789) 
+ 💬 Telegram : [@dev_guru888](https://t.me/dev_guru888) 
  📧 Email : superdev0777@gmail.com 
 
 ### Languages and Tools:
